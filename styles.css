@@ -3,6 +3,7 @@
 :root {
     --purple: #883AE1;
     --gray: #6C727F;
+    --shadow: #9299A6;
     --body-bg: #FAFAF9;
 }
 
@@ -26,7 +27,7 @@ body {
     height: auto;
     padding: 1rem;
     border-radius: 16px;
-    box-shadow: 5px 5px 20px var(--gray);
+    box-shadow: 5px 5px 20px var(--shadow);
 }
 
 .img-container {
